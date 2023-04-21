@@ -1,0 +1,12 @@
+.navs{
+  display: flex;
+  justify-content: center;
+  gap: 10%;
+  list-style: none;
+  font-size: 3vh;
+}
+
+.navs li a.active{
+  color: #474544;
+  font-size: 2rem;
+}
